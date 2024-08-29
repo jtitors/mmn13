@@ -30,3 +30,7 @@ bin/
 
 ### executables ###
 *.jar
+
+### Other ###
+*.docx
+*.pdf
